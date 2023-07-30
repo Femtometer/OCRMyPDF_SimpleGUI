@@ -1,0 +1,1 @@
+python -m nuitka --standalone --follow-imports --windows-icon-from-ico=logfile.ico main.py
